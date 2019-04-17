@@ -15,7 +15,7 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
 def times_iterator(number_of_times)
-  number_of_times.times do.loop
+  number_of_times.times do
     puts phrase
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
